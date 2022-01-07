@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: 檸檬水伺服器
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: waterlemon.tw
+serverIP: waterlemon.tw:25565
 useBedrockForOnlineStatus: false
 
 
