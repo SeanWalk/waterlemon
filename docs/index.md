@@ -8,8 +8,8 @@ cellLinks:
     curl: map
     cimage: media/demo02.jpg
 
-  - cname: 
-    curl: 不知道放啥2
+  - cname:  不知道放啥2
+    curl: screenshots
     cimage: media/demo03.jpg
 
   - cname: 不知道放啥
